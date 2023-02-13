@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![Business](https://user-images.githubusercontent.com/114779868/218526460-9ae5cc68-2607-41f9-b300-eab8c1855bb2.png)
+
 <h1 align="center">Hi 👋, I'm Om Kulkarni</h1>
 <h3 align="center">A Passionate Learner | Programmer | Developer  </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
