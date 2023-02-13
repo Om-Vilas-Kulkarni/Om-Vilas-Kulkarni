@@ -1,4 +1,5 @@
-![Business](https://user-images.githubusercontent.com/114779868/218526460-9ae5cc68-2607-41f9-b300-eab8c1855bb2.png)
+![Business](https://user-images.githubusercontent.com/114779868/218527936-d9fba101-3741-4a4f-929d-d6785e5eada1.gif)
+
 
 <h1 align="center">Hi 👋, I'm Om Kulkarni</h1>
 <h3 align="center">A Passionate Learner | Programmer | Developer  </h3>
