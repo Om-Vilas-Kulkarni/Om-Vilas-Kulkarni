@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-vilas-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="om-vilas-kulkarni" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/omkulkarnii" target="blank"><img src="https://img.shields.io/twitter/follow/omkulkarnii?logo=linkedin&style=for-the-badge" alt="omkulkarnii" /></a> </p>
+<p align="left"> <a href="https://in.linkedin.com/in/omkulkarnii" target="blank"><img src="https://img.shields.io/twitter/follow/omkulkarnii?logo=linkedin&style=for-the-badge" alt="omkulkarnii" /></a> </p>
 
 - 🔭 I’m currently working on **Front-End Development**
 
