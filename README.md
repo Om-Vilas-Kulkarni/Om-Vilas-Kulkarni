@@ -1,8 +1,8 @@
 ![Business](https://user-images.githubusercontent.com/114779868/218527936-d9fba101-3741-4a4f-929d-d6785e5eada1.gif)
 
 
-<h1 align="center">Hi 👋, I'm Om Kulkarni</h1>
-<h3 align="center">A Passionate Learner | Programmer | Developer  </h3>
+<h1 align="center">Hi <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" alt="error loading image" height="45" width="45">, I'm Om Kulkarni</h1>
+<h3 align="center">A Passionate Learner | Programmer | Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
