@@ -5,8 +5,8 @@
 <h3 align="center">A Passionate Learner | Programmer | Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=om-vilas-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="om-vilas-kulkarni" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/om-vilas-kulkarni?logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917&style=flat" height="20px"" alt="om-vilas-kulkarni" />
+<img src="https://komarev.com/ghpvc/?username=om-vilas-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="om-vilas-kulkarni" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/omkulkarnii" target="blank"><img src="https://img.shields.io/badge/Connect With Om Kulkarni-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="omkulkarnii" /></a> </p>
 
