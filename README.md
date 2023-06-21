@@ -67,8 +67,8 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img
             src="https://pngimg.com/uploads/photoshop/photoshop_PNG68.png" alt="xd" width="40" height="40" /> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-vilas-kulkarni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Vilas-Kulkarni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=om-vilas-kulkarni&show_icons=true&locale=en&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Om-Vilas-Kulkarni&show_icons=true&locale=en&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-vilas-kulkarni&&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
