@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JavaScript(Node JS)**
 
-- 💬 Ask me about **C, Python, HTML, CSS,JavaScript**
+- 💬 Ask me about **C, Python, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **kulkarni.omig@gmail.com**
 
