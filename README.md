@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Back-End Development**
 
-- 🌱 I’m currently learning **JavaScript(Node JS)**
+- 🌱 I’m currently learning **JavaScript(Node.js)**
 
 - 💬 Ask me about **C, Python, HTML, CSS, JavaScript**
 
