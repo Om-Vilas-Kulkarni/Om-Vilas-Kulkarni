@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/omkulkarnii" target="blank"><img src="https://img.shields.io/badge/Connect With Om Kulkarni-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="omkulkarnii" /></a> </p>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **Back-End Development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript(Node JS)**
 
-- 💬 Ask me about **C, Python, HTML, CSS**
+- 💬 Ask me about **C, Python, HTML, CSS,JavaScript**
 
 - 📫 How to reach me **kulkarni.omig@gmail.com**
 
