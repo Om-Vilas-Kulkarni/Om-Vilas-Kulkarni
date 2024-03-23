@@ -67,7 +67,7 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img
             src="https://pngimg.com/uploads/photoshop/photoshop_PNG68.png" alt="xd" width="40" height="40" /> </a> </p>
             
-## 📊 Github Stats
+## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Vilas-Kulkarni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Om-Vilas-Kulkarni&show_icons=true&locale=en&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
