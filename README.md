@@ -72,3 +72,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Om-Vilas-Kulkarni&show_icons=true&locale=en&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-vilas-kulkarni&&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Om-Vilas-Kulkarni&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
