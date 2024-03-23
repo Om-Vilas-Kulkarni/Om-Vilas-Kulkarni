@@ -20,12 +20,12 @@
 
 - ⚡ Fun fact **why CSS Developers hard to catch?, because they have many 'Classes' and 'IDs'**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/omkulkarnii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkulkarnii" height="30" width="40" /></a>
 <a href="https://instagram.com/omkulkarniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkulkarniii" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Tech Stack:
 <p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
