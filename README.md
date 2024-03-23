@@ -20,12 +20,12 @@
 
 - ⚡ Fun fact **why CSS Developers hard to catch?, because they have many 'Classes' and 'IDs'**
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/omkulkarnii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkulkarnii" height="30" width="40" /></a>
 <a href="https://instagram.com/omkulkarniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkulkarniii" height="30" width="40" /></a>
          
-## 💻 Tech Stack:
+## 💻 Tech Stack
 <p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -67,7 +67,7 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img
             src="https://pngimg.com/uploads/photoshop/photoshop_PNG68.png" alt="xd" width="40" height="40" /> </a> </p>
             
-## 📊 Github Stats:
+## 📊 Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Vilas-Kulkarni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Om-Vilas-Kulkarni&show_icons=true&locale=en&theme=tokyonight" alt="om-vilas-kulkarni" /></p>
