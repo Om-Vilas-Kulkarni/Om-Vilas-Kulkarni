@@ -75,6 +75,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Om-Vilas-Kulkarni&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-###
-![OM KUlkarni](https://github.com/user-attachments/assets/6ef3acae-e802-453c-86aa-294ecaa2aef9)
