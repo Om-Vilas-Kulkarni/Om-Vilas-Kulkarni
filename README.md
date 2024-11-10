@@ -23,7 +23,7 @@
 <span align="left"> <a href="https://linkedin.com/in/omkulkarnii" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"></a></span> <span align="left"> <a href="https://instagram.com/omkulkarniii" target="blank"><img src="https://skillicons.dev/icons?i=instagram"> </a> </span>
          
 ## 💻 Tech Stack
-<p align="left"> <a href="https://github.com/Om-Vilas-Kulkarni"><img src="https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,react,nodejs,mongodb,vscode,github,photoshop"> </a> </p>
+<p align="left"> <a href="https://github.com/Om-Vilas-Kulkarni"><img src="https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,react,nodejs,express,mongodb,vscode,github,photoshop"> </a> </p>
 <p>
             
 ## 📊 GitHub Stats
