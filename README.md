@@ -1,4 +1,4 @@
-<p align="center"><a href="https://om-vilas-kulkarni.github.io/MyPortfolio.github.io/"><img alt="Om Kulkarni" src="https://user-images.githubusercontent.com/114779868/218527936-d9fba101-3741-4a4f-929d-d6785e5eada1.gif" /></a></p>
+<p align="center"><a href="https://om-kulkarni.vercel.app"><img alt="Om Kulkarni" src="https://user-images.githubusercontent.com/114779868/218527936-d9fba101-3741-4a4f-929d-d6785e5eada1.gif" /></a></p>
 
 <h1 align="center">Hi <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt="error loading image" height="45" width="45">, I'm Om Kulkarni</h1>
 <h3 align="center">A Passionate Learner | Programmer | Developer </h3>
