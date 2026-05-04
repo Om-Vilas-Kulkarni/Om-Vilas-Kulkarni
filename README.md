@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/omkulkarnii" target="blank"><img src="https://img.shields.io/badge/Connect With Om Kulkarni-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="omkulkarnii" /></a> </p>
 
-- 🔭 I’m currently working on **Back-End Development**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **JavaScript(Node.js)**
+- 🌱 I’m currently learning **Tableau**
 
-- 💬 Ask me about **C, Python, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, SQL & Tableau**
 
 - 📫 How to reach me **kulkarni.omig@gmail.com**
 
@@ -23,7 +23,7 @@
 <span align="left"> <a href="https://linkedin.com/in/omkulkarnii" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"></a></span> <span align="left"> <a href="https://instagram.com/omkulkarniii" target="blank"><img src="https://skillicons.dev/icons?i=instagram"> </a> </span>
          
 ## 💻 Tech Stack
-<p align="left"> <a href="https://github.com/Om-Vilas-Kulkarni"><img src="https://skillicons.dev/icons?i=c,python,flask,html,css,js,bootstrap,react,nodejs,express,mongodb,vscode,github,photoshop"> </a> </p>
+<p align="left"> <a href="https://github.com/Om-Vilas-Kulkarni"><img src="https://skillicons.dev/icons?i=c,python,sql,tableau,flask,html,css,js,bootstrap,react,nodejs,express,mongodb,vscode,github,photoshop"> </a> </p>
 <p>
             
 ## 📊 GitHub Stats
