@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kulkarni.omig@gmail.com**
 
-- ⚡ Fun fact **why CSS Developers hard to catch?, because they have many 'Classes' and 'IDs'**
+- ⚡ Fun fact **Why are Data Analysts calm? Because they always filter out the noise 😉.**
 
 ## 🌐 Connect With Me
 <span align="left"> <a href="https://linkedin.com/in/omkulkarnii" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"></a></span> <span align="left"> <a href="https://instagram.com/omkulkarniii" target="blank"><img src="https://skillicons.dev/icons?i=instagram"> </a> </span>
