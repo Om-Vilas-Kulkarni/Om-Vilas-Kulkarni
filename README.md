@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **Python, SQL & Tableau**
+- 💬 Ask me about **Python, SQL & Power BI**
 
 - 📫 How to reach me **kulkarni.omig@gmail.com**
 
