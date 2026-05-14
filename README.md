@@ -1,4 +1,4 @@
-<p align="center"><a href="https://om-kulkarni.vercel.app"><img alt="Om Kulkarni" src="https://user-images.githubusercontent.com/114779868/218527936-d9fba101-3741-4a4f-929d-d6785e5eada1.gif" /></a></p>
+<img width="1152" height="648" alt="Black and Blue Creative Animated Gaming Youtube Intro Video" src="https://github.com/user-attachments/assets/7703a2bc-3d02-47f8-b977-acff0a468916" />
 
 <h1 align="center">Hi <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt="error loading image" height="45" width="45">, I'm Om Kulkarni</h1>
 <h3 align="center">Data Analyst 📈 | Python 🐍| Power BI 📊</h3>
