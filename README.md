@@ -20,7 +20,7 @@
 - ⚡ Fun fact **Why are Data Analysts calm? Because they always filter out the noise 😉.**
 
 ## 🌐 Connect With Me
-<span align="left"> <a href="https://linkedin.com/in/omkulkarnii" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"></a></span> <span align="left"> <a href="https://instagram.com/omkulkarniii" target="blank"><img src="https://skillicons.dev/icons?i=instagram"> </a> </span>
+<span align="left"> <a href="https://linkedin.com/in/omkulkarnii" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"></a></span> <span align="left">
          
 ## 💻 Tech Stack
 <p align="left"> <a href="https://github.com/Om-Vilas-Kulkarni"><img src="https://skillicons.dev/icons?i=c,python,postgresql,flask,html,css,js,bootstrap,react,nodejs,express,mongodb,vscode,github,photoshop"> </a> </p>
