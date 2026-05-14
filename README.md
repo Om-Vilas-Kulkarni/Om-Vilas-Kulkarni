@@ -27,8 +27,8 @@
 <p>
             
 ## 📊 GitHub Stats
-<div align="top left">
-  <img src="https://streak-stats.demolab.com/?user=Om-Vilas-Kulkarni&theme=tokyonight&hide_border=true&cache_seconds=86400" height="192" width="350px" alt="stats graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=Om-Vilas-Kulkarni&theme=tokyonight&hide_border=true&cache_seconds=86400" height="192" alt="stats graph"  />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Om-Vilas-Kulkarni&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" height="192" alt="languages graph"  />
 
 ###
