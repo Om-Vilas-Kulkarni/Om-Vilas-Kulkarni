@@ -35,3 +35,7 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=om-vilas-kulkarni&theme=matrix)](https://github.com/om-vilas-kulkarni/github-profile-trophy)
+
+<img width="1200" align="center" height="250" alt="example (1)" src="https://github.com/user-attachments/assets/2b109649-a9b7-43c8-85c2-4f76104f1132" />
+
+
