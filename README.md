@@ -31,6 +31,11 @@
   <img src="https://streak-stats.demolab.com/?user=Om-Vilas-Kulkarni&theme=tokyonight&hide_border=true&cache_seconds=86400" height="192" width="49%" alt="streak graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Om-Vilas-Kulkarni&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" height="192" width="49%" alt="stats graph" />
 </p>
+<p align="center">
+  <a href="https://github.com/Om-Vilas-Kulkarni">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Om-Vilas-Kulkarni&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 ###
 
